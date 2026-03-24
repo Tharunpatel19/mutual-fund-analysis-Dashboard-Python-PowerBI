@@ -54,8 +54,7 @@ Extracted the **Top 30 Mutual Funds** with best return-low risk balance
 
 ## 📈 Power BI Dashboard – Mutual Fund Insights
 
-After processing the data using Python and Excel, I built an **interactive dashboard** in Power BI.  
-🔗 [Power BI Dashboard File (.pbix)](https://github.com/Tharunpatel19/mutual-fund-analysis-Dashboard-Python-PowerBI/blob/main/Mutual%20Fund%20Dashboard.pbix)  
+After processing the data using Python and Excel, I built an **interactive dashboard** in Power BI.   
 🔗 [Dashboard Preview Image](https://github.com/Tharunpatel19/mutual-fund-analysis-Dashboard-Python-PowerBI/blob/main/Mutual%20Fund%20Dashboard%20.png)
 
 ### 📌 Key Features
@@ -127,7 +126,7 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 | [Mutual Fund Analysis.ipynb](https://github.com/Tharunpatel19/mutual-fund-analysis-Dashboard-Python-PowerBI/blob/main/Mutual%20Fund%20Analysis.ipynb) | Jupyter Notebook with Python analysis |
 | [top_30_mutual_funds.xlsx](https://github.com/Tharunpatel19/mutual-fund-analysis-Dashboard-Python-PowerBI/blob/main/top_30_mutual_funds.xlsx) | Final top 30 filtered mutual funds |
 | [Mutual Fund Dashboard.pbix](https://github.com/Tharunpatel19/mutual-fund-analysis-Dashboard-Python-PowerBI/blob/main/Mutual%20Fund%20Dashboard.pbix) | Power BI dashboard file |
-| [Mutual Fund Dashboard.png](https://github.com/Tharunpatel19/mutual-fund-analysis-Dashboard-Python-PowerBI/blob/main/Mutual%20Fund%20Dashboard.png) | Dashboard image preview |
+| [Mutual Fund Dashboard.png](https://github.com/Tharunpatel19/mutual-fund-analysis-Dashboard-Python-PowerBI/blob/main/Mutual%20Fund%20Dashboard%20.png) | Dashboard image preview |
 
 ---
 
